@@ -1,2 +1,3 @@
 # CSharpPatikasi
-https://app.patika.dev adresinde C# Patikası notlarım
+https://app.patika.dev adresinde işlediğimiz tip dönüşümleri.
+
